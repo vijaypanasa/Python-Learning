@@ -1,7 +1,6 @@
 #!python3
 import os
 import tkinter as tk
-import sys
 
 
 class SampleTkApp(tk.Frame):
